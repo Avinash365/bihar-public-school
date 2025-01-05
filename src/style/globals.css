@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  :root {
+    --background: #ffffff; /* white background */
+    --foreground: #868686; /* dark foreground text */ 
+    --raspberry: #A21A4C; /* red with a hint of purple */ 
+    --darkcyan : #0A4A4A; /* muted blue-green shade */ 
+  }
