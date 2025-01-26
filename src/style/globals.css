@@ -14,7 +14,9 @@
 
   :root {
     --background: #ffffff; /* white background */
-    --foreground: #868686; /* dark foreground text */ 
+    --foreground: #848484; /* dark foreground text */ 
     --raspberry: #A21A4C; /* red with a hint of purple */ 
     --darkcyan : #0A4A4A; /* muted blue-green shade */ 
-  }
+    --raspberry50 :rgba(162, 26, 76, 0.2); 
+  } 
+  
